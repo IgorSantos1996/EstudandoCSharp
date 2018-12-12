@@ -1,0 +1,2 @@
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache

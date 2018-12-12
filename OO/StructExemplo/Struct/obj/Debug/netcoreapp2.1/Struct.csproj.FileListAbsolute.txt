@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\bin\Debug\netcoreapp2.1\Struct.deps.json
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\bin\Debug\netcoreapp2.1\Struct.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\bin\Debug\netcoreapp2.1\Struct.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\bin\Debug\netcoreapp2.1\Struct.dll
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\bin\Debug\netcoreapp2.1\Struct.pdb
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\obj\Debug\netcoreapp2.1\Struct.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\obj\Debug\netcoreapp2.1\Struct.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\obj\Debug\netcoreapp2.1\Struct.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\obj\Debug\netcoreapp2.1\Struct.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\obj\Debug\netcoreapp2.1\Struct.dll
+C:\Users\igsan\Documents\C#\OO\StructExemplo\Struct\obj\Debug\netcoreapp2.1\Struct.pdb

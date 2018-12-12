@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\bin\Debug\netcoreapp2.1\IniciandoOO.deps.json
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\bin\Debug\netcoreapp2.1\IniciandoOO.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\bin\Debug\netcoreapp2.1\IniciandoOO.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\bin\Debug\netcoreapp2.1\IniciandoOO.dll
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\bin\Debug\netcoreapp2.1\IniciandoOO.pdb
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\obj\Debug\netcoreapp2.1\IniciandoOO.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\obj\Debug\netcoreapp2.1\IniciandoOO.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\obj\Debug\netcoreapp2.1\IniciandoOO.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\obj\Debug\netcoreapp2.1\IniciandoOO.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\obj\Debug\netcoreapp2.1\IniciandoOO.dll
+C:\Users\igsan\Documents\C#\OO\IniciandoOO\IniciandoOO\obj\Debug\netcoreapp2.1\IniciandoOO.pdb

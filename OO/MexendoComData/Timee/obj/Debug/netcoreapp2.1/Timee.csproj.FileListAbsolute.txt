@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\bin\Debug\netcoreapp2.1\Timee.deps.json
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\bin\Debug\netcoreapp2.1\Timee.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\bin\Debug\netcoreapp2.1\Timee.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\bin\Debug\netcoreapp2.1\Timee.dll
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\bin\Debug\netcoreapp2.1\Timee.pdb
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\obj\Debug\netcoreapp2.1\Timee.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\obj\Debug\netcoreapp2.1\Timee.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\obj\Debug\netcoreapp2.1\Timee.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\obj\Debug\netcoreapp2.1\Timee.dll
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\obj\Debug\netcoreapp2.1\Timee.pdb
+C:\Users\igsan\Documents\C#\OO\MexendoComData\Timee\obj\Debug\netcoreapp2.1\Timee.csprojAssemblyReference.cache

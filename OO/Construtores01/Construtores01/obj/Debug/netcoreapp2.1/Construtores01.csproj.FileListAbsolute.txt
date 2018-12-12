@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\bin\Debug\netcoreapp2.1\Construtores01.deps.json
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\bin\Debug\netcoreapp2.1\Construtores01.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\bin\Debug\netcoreapp2.1\Construtores01.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\bin\Debug\netcoreapp2.1\Construtores01.dll
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\bin\Debug\netcoreapp2.1\Construtores01.pdb
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\obj\Debug\netcoreapp2.1\Construtores01.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\obj\Debug\netcoreapp2.1\Construtores01.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\obj\Debug\netcoreapp2.1\Construtores01.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\obj\Debug\netcoreapp2.1\Construtores01.dll
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\obj\Debug\netcoreapp2.1\Construtores01.pdb
+C:\Users\igsan\Documents\C#\OO\Construtores01\Construtores01\obj\Debug\netcoreapp2.1\Construtores01.csprojAssemblyReference.cache

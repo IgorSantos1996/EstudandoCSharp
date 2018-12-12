@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\bin\Debug\netcoreapp2.1\Generics02.deps.json
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\bin\Debug\netcoreapp2.1\Generics02.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\bin\Debug\netcoreapp2.1\Generics02.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\bin\Debug\netcoreapp2.1\Generics02.dll
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\bin\Debug\netcoreapp2.1\Generics02.pdb
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\obj\Debug\netcoreapp2.1\Generics02.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\obj\Debug\netcoreapp2.1\Generics02.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\obj\Debug\netcoreapp2.1\Generics02.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\obj\Debug\netcoreapp2.1\Generics02.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\obj\Debug\netcoreapp2.1\Generics02.dll
+C:\Users\igsan\Documents\C#\OO\Generics02\Generics02\obj\Debug\netcoreapp2.1\Generics02.pdb

@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\obj\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\obj\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\obj\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\obj\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\bin\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.deps.json
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\bin\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\bin\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\bin\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.dll
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\bin\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.pdb
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\obj\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.dll
+C:\Users\igsan\Documents\C#\OO\ResolucaoExercicioEncapsulamento\ResolucaoExercicioEncapsulamento\obj\Debug\netcoreapp2.1\ResolucaoExercicioEncapsulamento.pdb

@@ -1,0 +1,10 @@
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\bin\Debug\netcoreapp2.1\Ref.deps.json
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\bin\Debug\netcoreapp2.1\Ref.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\bin\Debug\netcoreapp2.1\Ref.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\bin\Debug\netcoreapp2.1\Ref.dll
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\bin\Debug\netcoreapp2.1\Ref.pdb
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\obj\Debug\netcoreapp2.1\Ref.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\obj\Debug\netcoreapp2.1\Ref.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\obj\Debug\netcoreapp2.1\Ref.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\obj\Debug\netcoreapp2.1\Ref.dll
+C:\Users\igsan\Documents\C#\OO\EstudantoVetores\Ref\obj\Debug\netcoreapp2.1\Ref.pdb

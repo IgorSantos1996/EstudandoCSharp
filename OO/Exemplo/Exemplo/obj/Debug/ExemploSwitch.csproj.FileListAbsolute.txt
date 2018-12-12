@@ -1,0 +1,7 @@
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\obj\Debug\ExemploSwitch.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\obj\Debug\ExemploSwitch.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\igsan\Documents\C#\OO\Exemplo\Exemplo\obj\Debug\Exemplo.pdb

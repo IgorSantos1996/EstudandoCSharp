@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\bin\Debug\netcoreapp2.1\Course06.deps.json
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\bin\Debug\netcoreapp2.1\Course06.runtimeconfig.json
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\bin\Debug\netcoreapp2.1\Course06.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\bin\Debug\netcoreapp2.1\Course06.dll
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\bin\Debug\netcoreapp2.1\Course06.pdb
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\obj\Debug\netcoreapp2.1\Course06.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\obj\Debug\netcoreapp2.1\Course06.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\obj\Debug\netcoreapp2.1\Course06.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\obj\Debug\netcoreapp2.1\Course06.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\obj\Debug\netcoreapp2.1\Course06.dll
+C:\Users\igsan\Documents\C#\IntroducaoERevisaoLogica\Course06\Course06\obj\Debug\netcoreapp2.1\Course06.pdb

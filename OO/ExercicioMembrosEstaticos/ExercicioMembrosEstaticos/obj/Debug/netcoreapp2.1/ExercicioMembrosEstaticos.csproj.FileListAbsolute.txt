@@ -1,0 +1,10 @@
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.deps.json
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.dll
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.pdb
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.dll
+C:\Users\igsan\Documents\C#\OO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp2.1\ExercicioMembrosEstaticos.pdb

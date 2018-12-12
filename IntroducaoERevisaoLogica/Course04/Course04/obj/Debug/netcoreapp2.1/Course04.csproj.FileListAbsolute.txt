@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\Course04\Course04\bin\Debug\netcoreapp2.1\Course04.deps.json
+C:\Users\igsan\Documents\C#\Course04\Course04\bin\Debug\netcoreapp2.1\Course04.runtimeconfig.json
+C:\Users\igsan\Documents\C#\Course04\Course04\bin\Debug\netcoreapp2.1\Course04.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\Course04\Course04\bin\Debug\netcoreapp2.1\Course04.dll
+C:\Users\igsan\Documents\C#\Course04\Course04\bin\Debug\netcoreapp2.1\Course04.pdb
+C:\Users\igsan\Documents\C#\Course04\Course04\obj\Debug\netcoreapp2.1\Course04.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\Course04\Course04\obj\Debug\netcoreapp2.1\Course04.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\Course04\Course04\obj\Debug\netcoreapp2.1\Course04.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\Course04\Course04\obj\Debug\netcoreapp2.1\Course04.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\Course04\Course04\obj\Debug\netcoreapp2.1\Course04.dll
+C:\Users\igsan\Documents\C#\Course04\Course04\obj\Debug\netcoreapp2.1\Course04.pdb

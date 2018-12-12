@@ -1,0 +1,6 @@
+C:\Users\igsan\Documents\C#\OO\Exemplo\LibraryFrameworkSimple\bin\Debug\LibraryFrameworkSimple.dll
+C:\Users\igsan\Documents\C#\OO\Exemplo\LibraryFrameworkSimple\bin\Debug\LibraryFrameworkSimple.pdb
+C:\Users\igsan\Documents\C#\OO\Exemplo\LibraryFrameworkSimple\obj\Debug\LibraryFrameworkSimple.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo\LibraryFrameworkSimple\obj\Debug\LibraryFrameworkSimple.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo\LibraryFrameworkSimple\obj\Debug\LibraryFrameworkSimple.dll
+C:\Users\igsan\Documents\C#\OO\Exemplo\LibraryFrameworkSimple\obj\Debug\LibraryFrameworkSimple.pdb

@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\bin\Debug\netcoreapp2.1\AnonymousType.deps.json
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\bin\Debug\netcoreapp2.1\AnonymousType.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\bin\Debug\netcoreapp2.1\AnonymousType.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\bin\Debug\netcoreapp2.1\AnonymousType.dll
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\bin\Debug\netcoreapp2.1\AnonymousType.pdb
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\obj\Debug\netcoreapp2.1\AnonymousType.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\obj\Debug\netcoreapp2.1\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\obj\Debug\netcoreapp2.1\AnonymousType.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\obj\Debug\netcoreapp2.1\AnonymousType.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\obj\Debug\netcoreapp2.1\AnonymousType.dll
+C:\Users\igsan\Documents\C#\OO\AnonymousType\AnonymousType\obj\Debug\netcoreapp2.1\AnonymousType.pdb

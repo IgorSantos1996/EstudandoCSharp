@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\obj\Debug\netcoreapp2.1\Exemplo02OO.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\obj\Debug\netcoreapp2.1\Exemplo02OO.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\obj\Debug\netcoreapp2.1\Exemplo02OO.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\bin\Debug\netcoreapp2.1\Exemplo02OO.deps.json
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\bin\Debug\netcoreapp2.1\Exemplo02OO.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\bin\Debug\netcoreapp2.1\Exemplo02OO.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\bin\Debug\netcoreapp2.1\Exemplo02OO.dll
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\bin\Debug\netcoreapp2.1\Exemplo02OO.pdb
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\obj\Debug\netcoreapp2.1\Exemplo02OO.dll
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\obj\Debug\netcoreapp2.1\Exemplo02OO.pdb
+C:\Users\igsan\Documents\C#\OO\Exemplo02OO\Exemplo02OO\obj\Debug\netcoreapp2.1\Exemplo02OO.csprojAssemblyReference.cache

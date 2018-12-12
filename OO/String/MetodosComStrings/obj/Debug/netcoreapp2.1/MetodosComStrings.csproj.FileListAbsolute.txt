@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\bin\Debug\netcoreapp2.1\MetodosComStrings.deps.json
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\bin\Debug\netcoreapp2.1\MetodosComStrings.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\bin\Debug\netcoreapp2.1\MetodosComStrings.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\bin\Debug\netcoreapp2.1\MetodosComStrings.dll
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\bin\Debug\netcoreapp2.1\MetodosComStrings.pdb
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\obj\Debug\netcoreapp2.1\MetodosComStrings.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\obj\Debug\netcoreapp2.1\MetodosComStrings.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\obj\Debug\netcoreapp2.1\MetodosComStrings.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\obj\Debug\netcoreapp2.1\MetodosComStrings.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\obj\Debug\netcoreapp2.1\MetodosComStrings.dll
+C:\Users\igsan\Documents\C#\OO\String\MetodosComStrings\obj\Debug\netcoreapp2.1\MetodosComStrings.pdb

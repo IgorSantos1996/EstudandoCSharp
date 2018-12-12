@@ -1,0 +1,6 @@
+C:\Users\igsan\Documents\C#\OO\AnonymousType\LibraryFrameworkSample\bin\Debug\LibraryFrameworkSample.dll
+C:\Users\igsan\Documents\C#\OO\AnonymousType\LibraryFrameworkSample\bin\Debug\LibraryFrameworkSample.pdb
+C:\Users\igsan\Documents\C#\OO\AnonymousType\LibraryFrameworkSample\obj\Debug\LibraryFrameworkSample.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\AnonymousType\LibraryFrameworkSample\obj\Debug\LibraryFrameworkSample.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\AnonymousType\LibraryFrameworkSample\obj\Debug\LibraryFrameworkSample.dll
+C:\Users\igsan\Documents\C#\OO\AnonymousType\LibraryFrameworkSample\obj\Debug\LibraryFrameworkSample.pdb

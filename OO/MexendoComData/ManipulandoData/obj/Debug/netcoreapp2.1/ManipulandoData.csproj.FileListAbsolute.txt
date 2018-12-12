@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\bin\Debug\netcoreapp2.1\ManipulandoData.deps.json
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\bin\Debug\netcoreapp2.1\ManipulandoData.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\bin\Debug\netcoreapp2.1\ManipulandoData.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\bin\Debug\netcoreapp2.1\ManipulandoData.dll
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\bin\Debug\netcoreapp2.1\ManipulandoData.pdb
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\obj\Debug\netcoreapp2.1\ManipulandoData.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\obj\Debug\netcoreapp2.1\ManipulandoData.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\obj\Debug\netcoreapp2.1\ManipulandoData.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\obj\Debug\netcoreapp2.1\ManipulandoData.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\obj\Debug\netcoreapp2.1\ManipulandoData.dll
+C:\Users\igsan\Documents\C#\OO\MexendoComData\ManipulandoData\obj\Debug\netcoreapp2.1\ManipulandoData.pdb

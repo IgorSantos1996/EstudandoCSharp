@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\bin\Debug\netcoreapp2.1\TiposEstaticos.deps.json
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\bin\Debug\netcoreapp2.1\TiposEstaticos.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\bin\Debug\netcoreapp2.1\TiposEstaticos.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\bin\Debug\netcoreapp2.1\TiposEstaticos.dll
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\bin\Debug\netcoreapp2.1\TiposEstaticos.pdb
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\obj\Debug\netcoreapp2.1\TiposEstaticos.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\obj\Debug\netcoreapp2.1\TiposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\obj\Debug\netcoreapp2.1\TiposEstaticos.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\obj\Debug\netcoreapp2.1\TiposEstaticos.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\obj\Debug\netcoreapp2.1\TiposEstaticos.dll
+C:\Users\igsan\Documents\C#\OO\TiposEstaticos\TiposEstaticos\obj\Debug\netcoreapp2.1\TiposEstaticos.pdb

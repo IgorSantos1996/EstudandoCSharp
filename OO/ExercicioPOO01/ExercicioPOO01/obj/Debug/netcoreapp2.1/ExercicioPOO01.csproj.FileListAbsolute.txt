@@ -1,0 +1,10 @@
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\bin\Debug\netcoreapp2.1\ExercicioPOO01.deps.json
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\bin\Debug\netcoreapp2.1\ExercicioPOO01.runtimeconfig.json
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\bin\Debug\netcoreapp2.1\ExercicioPOO01.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\bin\Debug\netcoreapp2.1\ExercicioPOO01.dll
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\bin\Debug\netcoreapp2.1\ExercicioPOO01.pdb
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\obj\Debug\netcoreapp2.1\ExercicioPOO01.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\obj\Debug\netcoreapp2.1\ExercicioPOO01.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\obj\Debug\netcoreapp2.1\ExercicioPOO01.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\obj\Debug\netcoreapp2.1\ExercicioPOO01.dll
+C:\Users\igsan\Documents\C#\OO\ExercicioPOO01\ExercicioPOO01\obj\Debug\netcoreapp2.1\ExercicioPOO01.pdb
