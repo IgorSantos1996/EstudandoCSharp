@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace Generics02 {
     class Program {
         static void Main(string[] args) {
-
+            
             ArrayList al = new ArrayList();
             
             al.Add(10);

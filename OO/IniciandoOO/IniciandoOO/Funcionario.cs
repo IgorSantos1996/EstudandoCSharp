@@ -6,5 +6,6 @@ namespace IniciandoOO {
         public float salario;
 
         
+
     }
 }

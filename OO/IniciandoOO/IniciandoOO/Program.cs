@@ -5,6 +5,7 @@ namespace IniciandoOO {
     class Program {
         static void Main(string[] args) {
            
+
             Triangulo x, y;
             x = new Triangulo();
             y = new Triangulo();
