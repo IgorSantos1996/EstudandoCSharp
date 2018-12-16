@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\bin\Debug\netcoreapp2.1\Composition02.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\bin\Debug\netcoreapp2.1\Composition02.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\bin\Debug\netcoreapp2.1\Composition02.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\bin\Debug\netcoreapp2.1\Composition02.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\bin\Debug\netcoreapp2.1\Composition02.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\obj\Debug\netcoreapp2.1\Composition02.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\obj\Debug\netcoreapp2.1\Composition02.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\obj\Debug\netcoreapp2.1\Composition02.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\obj\Debug\netcoreapp2.1\Composition02.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\obj\Debug\netcoreapp2.1\Composition02.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Composition02\Composition02\obj\Debug\netcoreapp2.1\Composition02.pdb
