@@ -44,11 +44,11 @@ namespace Composition03
             Console.WriteLine();
             Console.WriteLine("Order SUMMARY");
             Console.WriteLine(order);
-
+            Console.ReadKey();
         }
 
 
 
     }
 }
-}
+

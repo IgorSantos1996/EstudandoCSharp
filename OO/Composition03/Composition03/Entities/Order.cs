@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Composition03.Entities.Enums;
+using System.Globalization;
 
 namespace Composition03.Entities
 {
@@ -10,7 +11,7 @@ namespace Composition03.Entities
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
         public List<OrderItem> orderItems { get; set; } = new List<OrderItem>();
-        public Client client { get; set; }
+        public Client Client { get; set; }
 
 
         public Order() { }
@@ -37,6 +38,20 @@ namespace Composition03.Entities
                 sum += item.SubTotal();
             }
             return sum;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order items: ");
+            foreach(OrderItem item in orderItems)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price : $" + total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 }

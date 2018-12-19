@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioPolimorfismo.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioPolimorfismo.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioPolimorfismo.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioPolimorfismo.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioPolimorfismo.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioPolimorfismo.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioPolimorfismo.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioPolimorfismo.pdb
