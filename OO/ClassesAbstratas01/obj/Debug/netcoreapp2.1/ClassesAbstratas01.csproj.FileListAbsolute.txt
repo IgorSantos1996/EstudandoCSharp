@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\bin\Debug\netcoreapp2.1\ClassesAbstratas01.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\bin\Debug\netcoreapp2.1\ClassesAbstratas01.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\bin\Debug\netcoreapp2.1\ClassesAbstratas01.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\bin\Debug\netcoreapp2.1\ClassesAbstratas01.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\bin\Debug\netcoreapp2.1\ClassesAbstratas01.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\obj\Debug\netcoreapp2.1\ClassesAbstratas01.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\obj\Debug\netcoreapp2.1\ClassesAbstratas01.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\obj\Debug\netcoreapp2.1\ClassesAbstratas01.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\obj\Debug\netcoreapp2.1\ClassesAbstratas01.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\obj\Debug\netcoreapp2.1\ClassesAbstratas01.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratas01\obj\Debug\netcoreapp2.1\ClassesAbstratas01.pdb

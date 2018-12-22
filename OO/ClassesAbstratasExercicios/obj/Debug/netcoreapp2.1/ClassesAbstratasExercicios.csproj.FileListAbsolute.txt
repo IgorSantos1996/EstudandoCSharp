@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\bin\Debug\netcoreapp2.1\ClassesAbstratasExercicios.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\bin\Debug\netcoreapp2.1\ClassesAbstratasExercicios.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\bin\Debug\netcoreapp2.1\ClassesAbstratasExercicios.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\bin\Debug\netcoreapp2.1\ClassesAbstratasExercicios.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\bin\Debug\netcoreapp2.1\ClassesAbstratasExercicios.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\obj\Debug\netcoreapp2.1\ClassesAbstratasExercicios.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\obj\Debug\netcoreapp2.1\ClassesAbstratasExercicios.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\obj\Debug\netcoreapp2.1\ClassesAbstratasExercicios.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\obj\Debug\netcoreapp2.1\ClassesAbstratasExercicios.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\obj\Debug\netcoreapp2.1\ClassesAbstratasExercicios.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ClassesAbstratasExercicios\obj\Debug\netcoreapp2.1\ClassesAbstratasExercicios.pdb
