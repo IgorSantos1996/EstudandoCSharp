@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\bin\Debug\netcoreapp2.1\TratamentoExcecao01.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\bin\Debug\netcoreapp2.1\TratamentoExcecao01.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\bin\Debug\netcoreapp2.1\TratamentoExcecao01.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\bin\Debug\netcoreapp2.1\TratamentoExcecao01.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\bin\Debug\netcoreapp2.1\TratamentoExcecao01.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\obj\Debug\netcoreapp2.1\TratamentoExcecao01.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\obj\Debug\netcoreapp2.1\TratamentoExcecao01.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\obj\Debug\netcoreapp2.1\TratamentoExcecao01.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\obj\Debug\netcoreapp2.1\TratamentoExcecao01.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\obj\Debug\netcoreapp2.1\TratamentoExcecao01.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\TratamentoExcecao01\TratamentoExcecao01\obj\Debug\netcoreapp2.1\TratamentoExcecao01.pdb

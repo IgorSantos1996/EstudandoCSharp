@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoExcecao01", "TratamentoExcecao01\TratamentoExcecao01.csproj", "{A0193229-1516-4A39-A31C-E96F5B4EC48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0193229-1516-4A39-A31C-E96F5B4EC48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0193229-1516-4A39-A31C-E96F5B4EC48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0193229-1516-4A39-A31C-E96F5B4EC48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0193229-1516-4A39-A31C-E96F5B4EC48E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835015C7-C739-4D47-A143-CDA8E4E5BAE9}
+	EndGlobalSection
+EndGlobal
