@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\bin\Debug\netcoreapp2.1\NullPropagationOperator.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\bin\Debug\netcoreapp2.1\NullPropagationOperator.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\bin\Debug\netcoreapp2.1\NullPropagationOperator.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\bin\Debug\netcoreapp2.1\NullPropagationOperator.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\bin\Debug\netcoreapp2.1\NullPropagationOperator.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\obj\Debug\netcoreapp2.1\NullPropagationOperator.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\obj\Debug\netcoreapp2.1\NullPropagationOperator.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\obj\Debug\netcoreapp2.1\NullPropagationOperator.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\obj\Debug\netcoreapp2.1\NullPropagationOperator.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\obj\Debug\netcoreapp2.1\NullPropagationOperator.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullPropagationOperator\NullPropagationOperator\obj\Debug\netcoreapp2.1\NullPropagationOperator.pdb

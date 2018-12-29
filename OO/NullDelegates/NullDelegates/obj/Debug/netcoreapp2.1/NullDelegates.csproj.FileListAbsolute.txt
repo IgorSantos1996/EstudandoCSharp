@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\bin\Debug\netcoreapp2.1\NullDelegates.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\bin\Debug\netcoreapp2.1\NullDelegates.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\bin\Debug\netcoreapp2.1\NullDelegates.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\bin\Debug\netcoreapp2.1\NullDelegates.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\bin\Debug\netcoreapp2.1\NullDelegates.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\obj\Debug\netcoreapp2.1\NullDelegates.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\obj\Debug\netcoreapp2.1\NullDelegates.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\obj\Debug\netcoreapp2.1\NullDelegates.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\obj\Debug\netcoreapp2.1\NullDelegates.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\obj\Debug\netcoreapp2.1\NullDelegates.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NullDelegates\NullDelegates\obj\Debug\netcoreapp2.1\NullDelegates.pdb

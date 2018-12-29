@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\bin\Debug\netcoreapp2.1\ExcpetionFilters.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\bin\Debug\netcoreapp2.1\ExcpetionFilters.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\bin\Debug\netcoreapp2.1\ExcpetionFilters.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\bin\Debug\netcoreapp2.1\ExcpetionFilters.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\bin\Debug\netcoreapp2.1\ExcpetionFilters.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\obj\Debug\netcoreapp2.1\ExcpetionFilters.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\obj\Debug\netcoreapp2.1\ExcpetionFilters.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\obj\Debug\netcoreapp2.1\ExcpetionFilters.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\obj\Debug\netcoreapp2.1\ExcpetionFilters.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\obj\Debug\netcoreapp2.1\ExcpetionFilters.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\ExcpetionFilters\ExcpetionFilters\obj\Debug\netcoreapp2.1\ExcpetionFilters.pdb

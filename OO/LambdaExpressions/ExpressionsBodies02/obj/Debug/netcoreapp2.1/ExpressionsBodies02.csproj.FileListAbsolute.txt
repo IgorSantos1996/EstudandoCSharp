@@ -1,0 +1,10 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\bin\Debug\netcoreapp2.1\ExpressionsBodies02.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\bin\Debug\netcoreapp2.1\ExpressionsBodies02.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\bin\Debug\netcoreapp2.1\ExpressionsBodies02.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\bin\Debug\netcoreapp2.1\ExpressionsBodies02.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\bin\Debug\netcoreapp2.1\ExpressionsBodies02.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\obj\Debug\netcoreapp2.1\ExpressionsBodies02.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\obj\Debug\netcoreapp2.1\ExpressionsBodies02.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\obj\Debug\netcoreapp2.1\ExpressionsBodies02.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\obj\Debug\netcoreapp2.1\ExpressionsBodies02.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\LambdaExpressions\ExpressionsBodies02\obj\Debug\netcoreapp2.1\ExpressionsBodies02.pdb

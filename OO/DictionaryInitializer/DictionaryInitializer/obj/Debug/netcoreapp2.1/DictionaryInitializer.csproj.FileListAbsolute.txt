@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\obj\Debug\netcoreapp2.1\DictionaryInitializer.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\obj\Debug\netcoreapp2.1\DictionaryInitializer.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\obj\Debug\netcoreapp2.1\DictionaryInitializer.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\obj\Debug\netcoreapp2.1\DictionaryInitializer.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\bin\Debug\netcoreapp2.1\DictionaryInitializer.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\bin\Debug\netcoreapp2.1\DictionaryInitializer.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\bin\Debug\netcoreapp2.1\DictionaryInitializer.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\bin\Debug\netcoreapp2.1\DictionaryInitializer.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\bin\Debug\netcoreapp2.1\DictionaryInitializer.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\obj\Debug\netcoreapp2.1\DictionaryInitializer.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\DictionaryInitializer\DictionaryInitializer\obj\Debug\netcoreapp2.1\DictionaryInitializer.pdb

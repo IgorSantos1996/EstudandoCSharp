@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\bin\Debug\netcoreapp2.1\NameOfOperator.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\bin\Debug\netcoreapp2.1\NameOfOperator.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\bin\Debug\netcoreapp2.1\NameOfOperator.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\bin\Debug\netcoreapp2.1\NameOfOperator.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\bin\Debug\netcoreapp2.1\NameOfOperator.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\obj\Debug\netcoreapp2.1\NameOfOperator.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\obj\Debug\netcoreapp2.1\NameOfOperator.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\obj\Debug\netcoreapp2.1\NameOfOperator.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\obj\Debug\netcoreapp2.1\NameOfOperator.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\obj\Debug\netcoreapp2.1\NameOfOperator.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\NameOfOperator\NameOfOperator\obj\Debug\netcoreapp2.1\NameOfOperator.pdb

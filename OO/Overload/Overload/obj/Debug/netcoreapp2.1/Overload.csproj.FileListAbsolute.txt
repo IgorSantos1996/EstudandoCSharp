@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\bin\Debug\netcoreapp2.1\Overload.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\bin\Debug\netcoreapp2.1\Overload.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\bin\Debug\netcoreapp2.1\Overload.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\bin\Debug\netcoreapp2.1\Overload.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\bin\Debug\netcoreapp2.1\Overload.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\obj\Debug\netcoreapp2.1\Overload.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\obj\Debug\netcoreapp2.1\Overload.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\obj\Debug\netcoreapp2.1\Overload.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\obj\Debug\netcoreapp2.1\Overload.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\obj\Debug\netcoreapp2.1\Overload.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Overload\Overload\obj\Debug\netcoreapp2.1\Overload.pdb
