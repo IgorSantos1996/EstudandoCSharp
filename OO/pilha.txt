@@ -1,0 +1,65 @@
+package igor;
+
+import java.util.ArrayList;
+
+import javax.swing.JOptionPane;
+
+public class Pilha {
+
+	public static ArrayList<Object> pilha;
+
+	public int posicaoPilha;
+
+	public Pilha() {
+		this.posicaoPilha = -1;
+		this.pilha = new ArrayList<Object>();
+
+	}
+
+	public boolean VerificarSePilhaEstaVazia() {
+		if (this.posicaoPilha == -1) {
+			return true;
+		}
+		return false;
+	}
+
+	public int VerificarTamanhoDaPilha() {
+		if (this.VerificarSePilhaEstaVazia()) {
+			return 0;
+		}
+		return this.posicaoPilha + 1; // pilha inicia em 0, tem que somar com 1
+	}
+
+	public void Empilhar(Object valor) {
+		if (this.posicaoPilha < this.pilha.size() - 1) {
+			// verifica se a posicaoPilha é menor do que o tamanho da pilha,
+			// se for então é inserido o valor da pilha e ao mesmo tempo é feito o
+			// incremento
+			// do atributo posicaoPilha
+			pilha.add(++posicaoPilha, valor);
+		}
+	}
+
+	public Object desempilhar() {
+		// pop
+		if (VerificarSePilhaEstaVazia()) {
+			return null;
+		}
+		int i = pilha.indexOf(posicaoPilha); // peguei o indice da posição
+		return pilha.get(i--); // retornei o elemento especificando a posição dele que peguei na linha de cima
+	}
+
+	public static void main(String args[]) {
+
+
+		
+		for (Object item : pilha) {
+			JOptionPane.showMessageDialog(null, item);
+
+		}
+
+//		while (pilha.VerificarSePilhaEstaVazia() == false) {
+//			System.out.println(p.desempilhar());
+//		}
+	}
+}
