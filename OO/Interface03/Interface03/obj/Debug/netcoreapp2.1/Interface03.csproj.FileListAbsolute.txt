@@ -1,0 +1,11 @@
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\bin\Debug\netcoreapp2.1\Interface03.deps.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\bin\Debug\netcoreapp2.1\Interface03.runtimeconfig.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\bin\Debug\netcoreapp2.1\Interface03.runtimeconfig.dev.json
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\bin\Debug\netcoreapp2.1\Interface03.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\bin\Debug\netcoreapp2.1\Interface03.pdb
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\obj\Debug\netcoreapp2.1\Interface03.csprojAssemblyReference.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\obj\Debug\netcoreapp2.1\Interface03.csproj.CoreCompileInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\obj\Debug\netcoreapp2.1\Interface03.AssemblyInfoInputs.cache
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\obj\Debug\netcoreapp2.1\Interface03.AssemblyInfo.cs
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\obj\Debug\netcoreapp2.1\Interface03.dll
+C:\Users\igsan\Documents\C#\EstudandoC#\OO\Interface03\Interface03\obj\Debug\netcoreapp2.1\Interface03.pdb
